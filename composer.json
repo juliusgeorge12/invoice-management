@@ -1,0 +1,20 @@
+{
+    "name": "juliusgeorge/invoice-management-website",
+    "description": "This is an invoice management system built with php",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "components": "components/" ,
+            "app": "app/"
+        }
+    },
+    "authors": [
+        {
+            "name": "julius George",
+            "email": "julius.business12@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {}
+}

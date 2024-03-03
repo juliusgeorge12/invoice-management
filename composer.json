@@ -5,8 +5,8 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "components": "components/" ,
-            "app": "app/"
+            "components\\": "components/" ,
+            "app\\": "app/"
         }
     },
     "authors": [

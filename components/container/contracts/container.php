@@ -1,5 +1,5 @@
 <?php
- namespace components\contracts\container;
+ namespace components\container\contracts;
 
  /**
   * this is the ioc container used to
